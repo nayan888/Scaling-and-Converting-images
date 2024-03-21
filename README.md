@@ -1,2 +1,2 @@
-This code is for a simple image processing using Python pillow library. It rotate a image 90 degree clockwise and resize the image as 128x128.
-This code is part of an assesment of course <b>Automating Real-World Tasks with Python<\b> on Coursera. 
+This code is for simple image processing using the Python pillow library. It rotates an image 90 degrees clockwise and resizes the image as 128x128.
+This code is part of an assessment of the course Automating Real-World Tasks with Python on Coursera. 
